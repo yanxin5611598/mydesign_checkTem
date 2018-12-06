@@ -1,0 +1,17 @@
+..\obj\mq135adc.o: ..\HARDWARE\MQ135ADC\mq135adc.c
+..\obj\mq135adc.o: ..\HARDWARE\MQ135ADC\mq135adc.h
+..\obj\mq135adc.o: ..\SYSTEM\sys\sys.h
+..\obj\mq135adc.o: ..\USER\stm32f10x.h
+..\obj\mq135adc.o: ..\CORE\core_cm3.h
+..\obj\mq135adc.o: H:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\mq135adc.o: ..\USER\system_stm32f10x.h
+..\obj\mq135adc.o: ..\USER\stm32f10x_conf.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\mq135adc.o: ..\USER\stm32f10x.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\mq135adc.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\mq135adc.o: ..\SYSTEM\delay\delay.h
